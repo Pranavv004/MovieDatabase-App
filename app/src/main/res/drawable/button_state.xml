@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Color when the button is enabled and not pressed -->
+    <item android:state_enabled="true" android:state_pressed="false"
+        android:color="@color/md_theme_dark_errorContainer"
+        android:textColor="@color/md_theme_light_background" />
+    <!-- Color when the button is enabled and pressed -->
+    <item android:state_enabled="true" android:state_pressed="true"
+        android:color="@color/md_theme_light_background"
+        android:textColor="@color/md_theme_dark_errorContainer"
+        />
+    <!-- Default color when the button is disabled -->
+    <item android:color="@color/md_theme_light_background"
+        android:textColor="@color/md_theme_dark_errorContainer"/>
+</selector>

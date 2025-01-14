@@ -1,0 +1,34 @@
+[
+  {
+    "name": "fetchTrending",
+    "url": "/trending/all/week?api_key=${API_KEY}&language=en-US"
+  },
+  {
+    "name": "fetchNetflixOriginals",
+    "url": "/discover/tv?api_key=${API_KEY}&with_networks=213"
+  },
+  {
+    "name": "fetchTopRated",
+    "url": "/movie/top_rated?api_key=${API_KEY}&language=en-US"
+  },
+  {
+    "name": "fetchActionMovies",
+    "url": "/discover/movie?api_key=${API_KEY}&with_genres=28"
+  },
+  {
+    "name": "fetchComedyMovies",
+    "url": "/discover/movie?api_key=${API_KEY}&with_genres=35"
+  },
+  {
+    "name": "fetchHorrorMovies",
+    "url": "/discover/movie?api_key=${API_KEY}&with_genres=27"
+  },
+  {
+    "name": "fetchRomanceMovies",
+    "url": "/discover/movie?api_key=${API_KEY}&with_genres=10749"
+  },
+  {
+    "name": "fetchDocumentaries",
+    "url": "/discover/movie?api_key=${API_KEY}&with_genres=99"
+  }
+]
