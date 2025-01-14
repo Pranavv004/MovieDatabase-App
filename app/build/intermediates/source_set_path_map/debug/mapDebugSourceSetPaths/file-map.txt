@@ -1,0 +1,37 @@
+com.example.movie.app-sqlite-framework-2.3.1-0 C:\Users\prana\.gradle\caches\8.9\transforms\033c95ed5434480115a819bc67663b4a\transformed\sqlite-framework-2.3.1\res
+com.example.movie.app-coordinatorlayout-1.1.0-1 C:\Users\prana\.gradle\caches\8.9\transforms\050084a3ea6149dd83543a27f5aea48c\transformed\coordinatorlayout-1.1.0\res
+com.example.movie.app-cardview-1.0.0-2 C:\Users\prana\.gradle\caches\8.9\transforms\071aff86720b51ebf2581b756980c857\transformed\cardview-1.0.0\res
+com.example.movie.app-core-ktx-1.9.0-3 C:\Users\prana\.gradle\caches\8.9\transforms\0e16e177d98217307804ef425dcc3032\transformed\core-ktx-1.9.0\res
+com.example.movie.app-fragment-1.3.6-4 C:\Users\prana\.gradle\caches\8.9\transforms\1bd684644334be23188a35d12b4bdeb5\transformed\fragment-1.3.6\res
+com.example.movie.app-lifecycle-runtime-2.5.1-5 C:\Users\prana\.gradle\caches\8.9\transforms\26dc10ec80fb05e2197d45335d439425\transformed\lifecycle-runtime-2.5.1\res
+com.example.movie.app-savedstate-1.2.0-6 C:\Users\prana\.gradle\caches\8.9\transforms\33d187112aa26ee213c164d85b1c6937\transformed\savedstate-1.2.0\res
+com.example.movie.app-material-1.8.0-7 C:\Users\prana\.gradle\caches\8.9\transforms\421a91452465ba93fc216ec2e297cdb9\transformed\material-1.8.0\res
+com.example.movie.app-BlurView-version-2.0.3-8 C:\Users\prana\.gradle\caches\8.9\transforms\4b516e61e37a1deb21a3049993deaafe\transformed\BlurView-version-2.0.3\res
+com.example.movie.app-sqlite-2.3.1-9 C:\Users\prana\.gradle\caches\8.9\transforms\64acef617947958eb4f0d87deeb85e18\transformed\sqlite-2.3.1\res
+com.example.movie.app-lifecycle-viewmodel-savedstate-2.5.1-10 C:\Users\prana\.gradle\caches\8.9\transforms\64e17dfb1b6e41796d41d7f42c7ab0e2\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.movie.app-startup-runtime-1.1.1-11 C:\Users\prana\.gradle\caches\8.9\transforms\6c3dda41caa701a5d1eb7e46c54b823d\transformed\startup-runtime-1.1.1\res
+com.example.movie.app-emoji2-1.2.0-12 C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\res
+com.example.movie.app-transition-1.2.0-13 C:\Users\prana\.gradle\caches\8.9\transforms\8389f3667ac5c407c43a4a44b5ecee65\transformed\transition-1.2.0\res
+com.example.movie.app-viewpager2-1.0.0-14 C:\Users\prana\.gradle\caches\8.9\transforms\85288057413b855f3edcff9f02b0b028\transformed\viewpager2-1.0.0\res
+com.example.movie.app-constraintlayout-2.1.4-15 C:\Users\prana\.gradle\caches\8.9\transforms\99cb130d4127ea9d484c95d01d7ed9c3\transformed\constraintlayout-2.1.4\res
+com.example.movie.app-lifecycle-viewmodel-2.5.1-16 C:\Users\prana\.gradle\caches\8.9\transforms\9da8caa6cc952bd668d4c7836e008af8\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.movie.app-lifecycle-process-2.4.1-17 C:\Users\prana\.gradle\caches\8.9\transforms\a1dcacb9793771c39aeb7899a05c53f3\transformed\lifecycle-process-2.4.1\res
+com.example.movie.app-appcompat-1.6.1-18 C:\Users\prana\.gradle\caches\8.9\transforms\a4425fecb623880ecec3df93282f4644\transformed\appcompat-1.6.1\res
+com.example.movie.app-appcompat-resources-1.6.1-19 C:\Users\prana\.gradle\caches\8.9\transforms\ab89d21221999827fc8ea669566f8c54\transformed\appcompat-resources-1.6.1\res
+com.example.movie.app-glide-4.15.1-20 C:\Users\prana\.gradle\caches\8.9\transforms\afafe9fac728e9cf9f669722b384462e\transformed\glide-4.15.1\res
+com.example.movie.app-core-1.9.0-21 C:\Users\prana\.gradle\caches\8.9\transforms\b1e8367970ec5cca7493cc7fa1d18b6e\transformed\core-1.9.0\res
+com.example.movie.app-activity-1.6.0-22 C:\Users\prana\.gradle\caches\8.9\transforms\b6dce86d46b2f22bc5e58dee9698dd0b\transformed\activity-1.6.0\res
+com.example.movie.app-emoji2-views-helper-1.2.0-23 C:\Users\prana\.gradle\caches\8.9\transforms\ce7deca351ad3e43535e556109c305e5\transformed\emoji2-views-helper-1.2.0\res
+com.example.movie.app-drawerlayout-1.1.1-24 C:\Users\prana\.gradle\caches\8.9\transforms\d19aea0e4be802c90c148162c3c7cfa5\transformed\drawerlayout-1.1.1\res
+com.example.movie.app-lottie-6.1.0-25 C:\Users\prana\.gradle\caches\8.9\transforms\d5069d615ffcbb53828f3746e365a0d6\transformed\lottie-6.1.0\res
+com.example.movie.app-recyclerview-1.1.0-26 C:\Users\prana\.gradle\caches\8.9\transforms\e503f09b63de6ae759ff7ef9d07015fe\transformed\recyclerview-1.1.0\res
+com.example.movie.app-room-runtime-2.5.2-27 C:\Users\prana\.gradle\caches\8.9\transforms\ed132a778d54fcd2b8f2f1f7e86fa982\transformed\room-runtime-2.5.2\res
+com.example.movie.app-annotation-experimental-1.3.0-28 C:\Users\prana\.gradle\caches\8.9\transforms\efda6706d702ee18502e7772459bd77b\transformed\annotation-experimental-1.3.0\res
+com.example.movie.app-lifecycle-livedata-core-2.5.1-29 C:\Users\prana\.gradle\caches\8.9\transforms\f18067c2f0762e585c4b5d82a09eb53d\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.movie.app-pngs-30 C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\build\generated\res\pngs\debug
+com.example.movie.app-resValues-31 C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\build\generated\res\resValues\debug
+com.example.movie.app-packageDebugResources-32 C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.movie.app-packageDebugResources-33 C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.movie.app-debug-34 C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.movie.app-debug-35 C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\debug\res
+com.example.movie.app-main-36 C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\res
