@@ -1,0 +1,128 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.movie"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:7:5-76
+13-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:7:22-73
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:8:22-77
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:10:5-65
+16-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:10:22-63
+17
+18    <permission
+18-->[androidx.core:core:1.9.0] C:\Users\prana\.gradle\caches\8.9\transforms\b1e8367970ec5cca7493cc7fa1d18b6e\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+19        android:name="com.example.movie.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+19-->[androidx.core:core:1.9.0] C:\Users\prana\.gradle\caches\8.9\transforms\b1e8367970ec5cca7493cc7fa1d18b6e\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+20        android:protectionLevel="signature" />
+20-->[androidx.core:core:1.9.0] C:\Users\prana\.gradle\caches\8.9\transforms\b1e8367970ec5cca7493cc7fa1d18b6e\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+21
+22    <uses-permission android:name="com.example.movie.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+22-->[androidx.core:core:1.9.0] C:\Users\prana\.gradle\caches\8.9\transforms\b1e8367970ec5cca7493cc7fa1d18b6e\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+22-->[androidx.core:core:1.9.0] C:\Users\prana\.gradle\caches\8.9\transforms\b1e8367970ec5cca7493cc7fa1d18b6e\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+23
+24    <application
+24-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:13:5-41:19
+25        android:allowBackup="true"
+25-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:14:9-35
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.9.0] C:\Users\prana\.gradle\caches\8.9\transforms\b1e8367970ec5cca7493cc7fa1d18b6e\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+27        android:dataExtractionRules="@xml/data_extraction_rules"
+27-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:15:9-65
+28        android:debuggable="true"
+29        android:extractNativeLibs="false"
+30        android:fullBackupContent="@xml/backup_rules"
+30-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:16:9-54
+31        android:icon="@drawable/movie"
+31-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:17:9-39
+32        android:label="@string/app_name"
+32-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:18:9-41
+33        android:roundIcon="@drawable/movie"
+33-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:19:9-44
+34        android:supportsRtl="true"
+34-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:20:9-35
+35        android:testOnly="true"
+36        android:theme="@style/AppTheme" >
+36-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:21:9-40
+37        <activity
+37-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:23:9-31:20
+38            android:name="com.example.movie.Splash"
+38-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:24:13-35
+39            android:exported="true" >
+39-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:25:13-36
+40            <intent-filter>
+40-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:26:13-30:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:27:17-69
+41-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:27:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:29:17-77
+43-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:29:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:32:9-36:20
+47            android:name="com.example.movie.MainActivity"
+47-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:33:13-41
+48            android:exported="true" >
+48-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:34:13-36
+49        </activity>
+50
+51        <meta-data
+51-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:38:9-40:57
+52            android:name="preloaded_fonts"
+52-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:39:13-43
+53            android:resource="@array/preloaded_fonts" />
+53-->C:\Users\prana\AndroidStudioProjects NEW\movi-master\movi-master\app\src\main\AndroidManifest.xml:40:13-54
+54
+55        <service
+55-->[androidx.room:room-runtime:2.5.2] C:\Users\prana\.gradle\caches\8.9\transforms\ed132a778d54fcd2b8f2f1f7e86fa982\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+56            android:name="androidx.room.MultiInstanceInvalidationService"
+56-->[androidx.room:room-runtime:2.5.2] C:\Users\prana\.gradle\caches\8.9\transforms\ed132a778d54fcd2b8f2f1f7e86fa982\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+57            android:directBootAware="true"
+57-->[androidx.room:room-runtime:2.5.2] C:\Users\prana\.gradle\caches\8.9\transforms\ed132a778d54fcd2b8f2f1f7e86fa982\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+58            android:exported="false" />
+58-->[androidx.room:room-runtime:2.5.2] C:\Users\prana\.gradle\caches\8.9\transforms\ed132a778d54fcd2b8f2f1f7e86fa982\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+59
+60        <provider
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+61            android:name="androidx.startup.InitializationProvider"
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+62            android:authorities="com.example.movie.androidx-startup"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+63            android:exported="false" >
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+64            <meta-data
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+65                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+66                android:value="androidx.startup" />
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\prana\.gradle\caches\8.9\transforms\770221b52fe31ae110bacf2b6f4f5b29\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+67            <meta-data
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\prana\.gradle\caches\8.9\transforms\a1dcacb9793771c39aeb7899a05c53f3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+68                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\prana\.gradle\caches\8.9\transforms\a1dcacb9793771c39aeb7899a05c53f3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+69                android:value="androidx.startup" />
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\prana\.gradle\caches\8.9\transforms\a1dcacb9793771c39aeb7899a05c53f3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+70        </provider>
+71    </application>
+72
+73</manifest>
